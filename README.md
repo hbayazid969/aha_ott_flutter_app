@@ -1,16 +1,28 @@
-# aha_ott_flutter_app
+AHA OTT Flutter App
+This repository contains the code for the AHA OTT Flutter app, a task-based project built using Flutter and Dart, designed to replicate the AHA OTT platform's UI and functionality.
 
-A new Flutter project.
+Features
+UI: Replicates the AHA App design and layout.
+Language: Dart
+Framework: Flutter
+Architecture: MVC (Model-View-Controller) Pattern
+State Management: GetX
+Navigation: GetX
+Dependency Injection: Yes (using Get_IT)
+Clean Code: Yes, following best practices for maintainability and readability.
+Key Functionalities
+Splash Screen: Displays a launch screen on app startup.
+Home Screen:
+Movie slider showcasing trending movies.
+Horizontal grid with various movie categories (e.g., genres, popular, etc.).
+Content Details Screen: Provides detailed information about a selected movie or series.
+Video Player:
+Allows users to watch videos repeatedly.
+Retains the last video playback state, so the video continues from where it was left off during the next session.
+Drawer Section: Contains options for navigation and settings.
+Search Screen: Real-time search functionality to find movies and series instantly as the user types.
+View All Movies/Series: Displays movies and series with infinite scroll pagination (loads more content as the user scrolls down).
+Demo
+You can view the demo of the app, including screenshots and the APK file, using the link below:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google Drive Link - Demo Screenshots & APK
