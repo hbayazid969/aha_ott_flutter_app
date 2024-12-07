@@ -34,5 +34,5 @@
 <h2>Demo</h2>
 <p>You can view the demo of the app, including screenshots and the APK file, using the link below:</p>
 <p><a rel="noopener">Google Drive Link - Demo Screenshots &amp; APK</a></p>
-![splash_screen](https://github.com/user-attachments/assets/a0fa7a2e-2d72-4163-acb2-429fcb6fddaf)
+https://drive.google.com/drive/folders/1tK2D1GBSPu7GL071ow22QAkZ7fZMDsen?usp=sharing
 
